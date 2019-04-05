@@ -17,6 +17,10 @@
 }
 .image1{
 	height: 80px;
+
+}
+.logo{
+	width:200px;
 }
 .text2{
 	color: blue;
@@ -24,6 +28,7 @@
 	margin-top:50px;
 	/*padding-left: 30px;*/
 	/*display: inline-block;*/
+	color:#363E97;
 }
 
 #sport{
@@ -49,7 +54,27 @@ a{
 }
 .test{
 	display: inline;
+	/*font-family: "ALK Rex Bold", sans-serif;*/
 }
 /*.navigation-li{
 	display: inline-block;
 }*/
+.test2{
+	font-family: 'ALK Rounded Nusx Med', sans-serif;
+}
+.test3{
+/*	font-family: 'Dokdo', cursive;
+	font-family: 'Dokdo';*/
+	font-style: italic;
+	font-size: 40px;
+	font-weight: 900;
+
+}
+.fa-facebook-f{
+	font-size: 30px;
+	color: red;
+}
+.fa-google-plus-g{
+	font-size: 50px;
+	color: green;
+}
