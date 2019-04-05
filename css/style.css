@@ -1,4 +1,3 @@
-
 .text{
 	color:red;
 	font-size:25px;
@@ -15,10 +14,6 @@
 	padding:20px 30px 60px 50px;*/
 /*	text-align: center;*/
 }
-.image1{
-	height: 80px;
-
-}
 .logo{
 	width:200px;
 }
@@ -26,13 +21,8 @@
 	color: blue;
 	border:2px solid green;
 	margin-top:50px;
-	/*padding-left: 30px;*/
-	/*display: inline-block;*/
 	color:#363E97;
-}
-
-#sport{
-/*	background-color: rgb(204, 0, 82);*/
+	/*	background-color: rgb(204, 0, 82);*/
 }
 .image{
 	width: 100%;
@@ -56,9 +46,6 @@ a{
 	display: inline;
 	/*font-family: "ALK Rex Bold", sans-serif;*/
 }
-/*.navigation-li{
-	display: inline-block;
-}*/
 .test2{
 	font-family: 'ALK Rounded Nusx Med', sans-serif;
 }
@@ -68,13 +55,30 @@ a{
 	font-style: italic;
 	font-size: 40px;
 	font-weight: 900;
-
 }
 .fa-facebook-f{
 	font-size: 30px;
 	color: red;
 }
 .fa-google-plus-g{
-	font-size: 50px;
+	font-size: 30px;
 	color: green;
+}
+.wraper .satauri.test{
+	color: blue;
+}
+.box1{
+	width: 570px;
+	height: 350px;
+	background-color: blue;
+	float:right;
+}
+.box2{
+	width: 570px;
+	height: 350px;
+	background-color: red;
+	float: left;
+}
+.clear{
+	clear: both;
 }
